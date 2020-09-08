@@ -2,7 +2,7 @@
 class Database {
     //specify your own database credentials
     private $host = "locahost";
-    private $db_name "";
+    private $db_name = "crud_db";
     private $username = "";
     private $password = "";
     public $conn;
